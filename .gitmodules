@@ -1,0 +1,9 @@
+[submodule "Week 1 - FirstProject"]
+	path = Week 1 - FirstProject
+	url = https://github.com/viditmathur204/FirstProject.git
+[submodule "Week 1.1 - Python_Data_Science_Assignment"]
+	path = Week 1.1 - Python_Data_Science_Assignment
+	url = https://github.com/viditmathur204/Python_Data_Science_Assignment.git
+[submodule "Week 1.2 - Student-Academic-Analytics"]
+	path = Week 1.2 - Student-Academic-Analytics
+	url = https://github.com/viditmathur204/Student-Academic-Analytics.git
